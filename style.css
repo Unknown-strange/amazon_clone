@@ -1,0 +1,33 @@
+*{
+    text-decoration: none;
+}
+body{
+    background:  rgba(192, 192, 192, 0.697);
+    padding: 0; margin: 0; box-sizing: border-box;
+}
+nav{
+    background-color: gray;
+    display: flex;
+    flex-direction:inherit;
+}
+nav ul{
+    list-style-type: none;
+
+}
+nav li{
+    display: inline-block; 
+    position: relative; 
+}
+.first{
+    margin-left: -20px;
+}
+
+
+
+
+
+
+
+
+
+
